@@ -1,4 +1,4 @@
-# howToFlask
+# How to Flask
 
 ## About
 
