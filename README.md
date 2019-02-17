@@ -16,7 +16,7 @@ This is a repository to hold useful links to help you get started on creating a 
 
 ## Example 
 
-Here is a web application that I made using Python Flask.
+Here is a web application that I made using Python Flask and that was deployed on Heroku.
 
 <a href="https://homemade-cuisine.herokuapp.com">https://homemade-cuisine.herokuapp.com</a>
 
